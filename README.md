@@ -46,6 +46,11 @@ To use this contract, you can follow these steps:
 
 Remember to manage gas costs appropriately while interacting with the contract on the Ethereum network.
 
+## Authors
+
+- Siddharth Aasal
+- [ siddharthaasal@gmail.com ] 
+
 ## License
 
 This contract is released under the MIT License. You can find the full license text in the contract source code. Make sure to review and understand the terms and conditions of the license before using the contract in your projects.
